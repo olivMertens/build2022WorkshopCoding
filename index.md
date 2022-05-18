@@ -1,10 +1,7 @@
-## Welcome to Microsoft build's Workshop & Live Codings
-
-
-# Workshops & Live codings
+## 
 
 | Titre      | Description |  Technos   | Owner |
-| :---        |    :----:   |          ---: | :---  |
+| :---        |    :----:   |   ---: | :---  |
 | Créer une web app en utilisant Azure Static Web Apps et CosmosDB      | Il n'a jamais été aussi simple de développer et déployer une application fullstack. Dans ce workshop, nous verrons comment développer une application avec :
 - un front-end en js/html/css
 - un backend en serverless
@@ -15,11 +12,12 @@ Pré-requis :
 - avoir un ordinateur avec un accès à internet
 - savoir développer en Javascript
 - avoir un compte GitHub
-- avoir une souscription Azure (nous pouvons fournir des vouchers si besoin)       | Azure Static Web Apps
-GitHub Actions
-Azure Function
-Cosmos DB
-JavaScript
+- avoir une souscription Azure (nous pouvons fournir des vouchers si besoin)       | 
+- Azure Static Web Apps
+- GitHub Actions
+- Azure Function
+- Cosmos DB
+- JavaScript
 | yolasors |
 | Intégrez facilement une solution de communication audio/vidéo ou chat dans vos apps   | 
 Si vous souhaitez intégrer des solutions de communications dans votre app web ou mobile pour vous rapprocher de vos clients, il existe une CPaaS (Communication Platform As A Service) nommée Azure Communication Services (ACS). Cette dernière repose sur l’infrastructure de Microsoft Teams et vous propose, via différents SDKs, d’en bénéficier dans vos apps de manière simple et rapide. 
@@ -29,8 +27,8 @@ Pré-requis :
 - savoir développer en Javascript
 - avoir un compte GitHub
 - avoir une souscription Azure (nous pouvons fournir des vouchers si besoin)
-      | Azure Communication Services
-JavaScript
+| - Azure Communication Services
+- JavaScript
 |davrous|
 ||||
 ||||
